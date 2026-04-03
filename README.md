@@ -20,11 +20,6 @@ A responsive Spotify-inspired music player interface built using HTML and CSS. T
 
 ---
 
-## 📸 Preview
-
-(Add a screenshot of your project here)
-
----
 
 ## 📁 Folder Structure
 
@@ -38,8 +33,7 @@ spotify-clone/
 ---
 
 ## 🌐 Live Demo
-
-(You can add GitHub Pages link here later)
+https://rajattyagi-dev1.github.io/Spotify-clone-FRONTEND-/
 
 ---
 
